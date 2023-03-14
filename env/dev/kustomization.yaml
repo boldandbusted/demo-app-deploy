@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/boldandbusted/demo-app
-  newTag: 3456027b286c76c704806536b0ecbe78bece98ec
+  newTag: 189272ba3d3e0b6ba278f7d45e99f5dea12ab435
