@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/boldandbusted/demo-app
+  newTag: 3466351af0031917a0c6193b2aa7fe5334951629
